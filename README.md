@@ -6,3 +6,4 @@ Eclipse + Java (obviamente)
 Apache Tomcat 8.5
 MySQL
 Xampp
+JBoss instalado no Eclipse

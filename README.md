@@ -5,3 +5,4 @@ Necessário p/rodar :
 Eclipse + Java (obviamente)
 Apache Tomcat 8.5
 MySQL
+Xampp
